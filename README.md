@@ -4,9 +4,9 @@ This repository contains a collection of SQL queries designed for a second-hand 
 
 ### Key features include:
 
-Querying car data by year and fuel type.
-Counting total cars for each year.
-Extracting information on cars by fuel type (Petrol, Diesel, CNG).
-Calculating averages like selling price, mileage, and engine capacity by fuel or owner type.
-Filtering cars based on mileage, price, and other parameters.
-Advanced operations such as finding the highest selling price, engine capacity, or torque values.
+⦁ Querying car data by year and fuel type.
+⦁ Counting total cars for each year.
+⦁ Extracting information on cars by fuel type (Petrol, Diesel, CNG).
+⦁ Calculating averages like selling price, mileage, and engine capacity by fuel or owner type.
+⦁ Filtering cars based on mileage, price, and other parameters.
+⦁ Advanced operations such as finding the highest selling price, engine capacity, or torque values.
